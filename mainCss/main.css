@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding:0;
+}
+.makebg{
+    background: url(media/abstract.png);
+    display: list-item;
+    height: 400px;
+}
+.makebg img{
+    display: none;
+}
+/* quemado */
+.logoheader{
+    
+}
+.logoheader img{
+    width: 100px;
+}
+.logoheader input{
+    width: 100%;
+}
+ul li{
+    list-style: none;
+    padding-left: 15px;
+}
+section {
+    margin: 0 0 50px 0px;
+}
+.mainseccion{
+    background-color: #00000085;
+    z-index: 999;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: none;
+}
+.mainseccion div{
+    background-color: antiquewhite;
+    width: fit-content;
+}
+/*mainbanner*/
+.mainbanner-text{
+    color: #fff;
+    max-width: 66%;
+    position: absolute;
+    bottom: 10px;
+}
+
+
+/*prouctos*/
+.main-product .row{
+    justify-content: center;
+}
+.main-product h3{
+    width: auto;
+}
+.products{
+    padding: 10px 5px;
+    box-shadow: 0 0 6px 0px #aaa;
+    margin: 8px 8px;
+} 
+.products img{
+    width: 100%;
+} 
+
+
+/*footer*/
+footer{
+    padding-top: 10px;
+    background-color: #c7c6c6;
+}
+.logo{
+    width: 30%;
+}

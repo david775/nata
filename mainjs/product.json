@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "title": "Name product one",
+        "description": "lorem ipsum",
+        "price": 000000,
+        "done" : false
+    },
+    {
+        "id": 1,
+        "title": "Name product two",
+        "description": "lorem ipsum",
+        "price": 000000,
+        "done" : false
+    },
+    {
+        "id": 2,
+        "title": "Name product thre",
+        "description": "lorem ipsum",
+        "price": 000000,
+        "done" : false
+    },
+    {
+        "id": 3,
+        "title": "Name product four",
+        "description": "lorem ipsum",
+        "price": 000000,
+        "done" : false
+    }
+]
